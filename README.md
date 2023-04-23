@@ -6,7 +6,7 @@ You can change every word in the html file (change the text and your bot name in
 
 You can also use this landing page for other purposes, such as a personal portfolio and so on.
 
-[**PREVIEW**](#preview)
+> [**PREVIEW**](#preview)
 
 # Installation
 just clone or download or fork the repo and open index.html
